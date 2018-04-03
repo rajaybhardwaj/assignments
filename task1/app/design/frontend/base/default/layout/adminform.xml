@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout>
+<default>
+        <reference name="head">
+            <block type="adminform/adminform" name="adminform" template="adminform.phtml" />
+        </reference>
+</default>
+</layout>
